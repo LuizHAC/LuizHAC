@@ -4,7 +4,7 @@
 
 ## Sejam bem-vindos!!
 
-Atualmente, estou cursando Engenharia de Computação na FACENS e estou no 6º semestre! Sou totalmente apaixonado por programação e dados, estando estudando a área de Ciencia de Dados e Aprendizado de Máquina desde o meu 2º semestre. Possuo conhecimentos no desenvolvimento de modelos de aprendizado profundo, especialmente os voltados para imagens e vídeos, como CNN e YOLO. Também possuo conhecimento em modelos mais clássicos, sejam modelos de regressão, classificação ou clusterização, como SVM, Regressão Linear e Logística, KNN, K-Means etc.
+Atualmente, estou cursando Engenharia de Computação na FACENS e estou no 7º semestre! Sou totalmente apaixonado por programação e dados, estando estudando a área de Ciencia de Dados e Aprendizado de Máquina desde o meu 2º semestre. Possuo conhecimentos no desenvolvimento de modelos de aprendizado profundo, especialmente os voltados para imagens e vídeos, como CNN e YOLO. Também possuo conhecimento em modelos mais clássicos, sejam modelos de regressão, classificação ou clusterização, como SVM, Regressão Linear e Logística, KNN, K-Means etc. Nos últimos meses, minha paixão por engenharia de dados vem aumentado, então também estou estudando diversas tecnologias da área como Hadoop, Airflow, Spark e computação em nuvem (CGP e IBM Cloud).
 
 ## 💻 **Ferramentas**
 
